@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chuckhole Patrol</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Chuckhole Patrol</string>
+    <string name="title_activity_about_us">About Us</string>
+    <string name="about_text">This project is by Computer Department to detect Chuckholes and to help local authorities and citizens.</string>
+    <string name="version_info">Version 1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
